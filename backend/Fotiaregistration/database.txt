@@ -1,0 +1,44 @@
+CREATE DATABASE fotia_database;
+
+USE fotia_database;
+
+-- Table for storing user information
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    username VARCHAR(100) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    phone_number VARCHAR(20) NOT NULL UNIQUE,
+    referral_code VARCHAR(8) NOT NULL UNIQUE,
+    referred_by VARCHAR(8) DEFAULT NULL, -- Stores referral code if the user was referred by someone else
+    status ENUM('unverified', 'verified') DEFAULT 'unverified', -- User verification status
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, -- Time when the user registered
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP, -- Time when user data was last updated
+    CONSTRAINT fk_referred_by FOREIGN KEY (referred_by) REFERENCES users(referral_code) ON DELETE SET NULL
+);
+
+-- You might also want a table to store logs for email verifications, like token creation times and status (optional)
+
+CREATE TABLE email_verifications (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) NOT NULL,
+    token VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    expires_at TIMESTAMP,
+    status ENUM('pending', 'verified', 'expired') DEFAULT 'pending',
+    CONSTRAINT fk_email_verification FOREIGN KEY (email) REFERENCES users(email) ON DELETE CASCADE
+);
+
+-- Optionally, add additional indexes if needed for optimization
+CREATE INDEX idx_users_email ON users(email);
+CREATE INDEX idx_users_phone_number ON users(phone_number);
+CREATE INDEX idx_users_referral_code ON users(referral_code);
+
+
+CREATE TABLE user_sessions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT NOT NULL, -- Foreign Key referencing users(id)
+    login_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    logout_time TIMESTAMP NULL,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);

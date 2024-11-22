@@ -1,0 +1,1069 @@
+2024-11-08 17:11:49,679 INFO Received login request
+2024-11-08 17:11:50,715 INFO Database connection established
+2024-11-08 17:11:50,716 INFO Checking if user exists in database
+2024-11-08 17:11:51,046 WARNING Login failed: Invalid password
+2024-11-08 17:12:19,785 INFO Received login request
+2024-11-08 17:12:20,825 INFO Database connection established
+2024-11-08 17:12:20,827 INFO Checking if user exists in database
+2024-11-08 17:12:21,150 INFO Creating or updating session for user
+2024-11-08 17:12:21,540 INFO Login successful for user ID 8
+2024-11-08 17:14:13,317 INFO Received login request
+2024-11-08 17:14:14,390 INFO Database connection established
+2024-11-08 17:14:14,391 INFO Checking if user exists in database
+2024-11-08 17:14:14,735 INFO Creating or updating session for user
+2024-11-08 17:14:15,208 INFO Login successful for user ID 8
+2024-11-08 17:19:08,388 INFO Received login request
+2024-11-08 17:19:09,514 INFO Database connection established
+2024-11-08 17:19:09,515 INFO Checking if user exists in database
+2024-11-08 17:19:09,840 INFO Creating or updating session for user
+2024-11-08 17:19:10,335 INFO Login successful for user ID 8
+2024-11-08 17:31:52,015 INFO Received login request
+2024-11-08 17:31:52,851 INFO Database connection established
+2024-11-08 17:31:52,852 INFO Checking if user exists in database
+2024-11-08 17:31:53,125 INFO Creating or updating session for user
+2024-11-08 17:31:53,448 INFO Login successful for user ID 9
+2024-11-08 17:34:20,452 INFO Received login request
+2024-11-08 17:34:21,237 INFO Database connection established
+2024-11-08 17:34:21,238 INFO Checking if user exists in database
+2024-11-08 17:34:21,503 INFO Creating or updating session for user
+2024-11-08 17:34:21,832 INFO Login successful for user ID 10
+2024-11-08 17:35:41,017 INFO Received login request
+2024-11-08 17:35:41,826 INFO Database connection established
+2024-11-08 17:35:41,826 INFO Checking if user exists in database
+2024-11-08 17:35:42,086 INFO Creating or updating session for user
+2024-11-08 17:35:42,415 INFO Login successful for user ID 10
+2024-11-11 12:44:22,730 INFO Received login request
+2024-11-11 12:44:23,588 INFO Database connection established
+2024-11-11 12:44:23,588 INFO Checking if user exists in database
+2024-11-11 12:44:23,930 INFO Creating or updating session for user
+2024-11-11 12:44:24,254 INFO Login successful for user ID 31
+2024-11-11 17:52:24,356 INFO Received login request
+2024-11-11 17:52:25,539 INFO Database connection established
+2024-11-11 17:52:25,581 INFO Checking if user exists in database
+2024-11-11 17:52:26,208 INFO Creating or updating session for user
+2024-11-11 17:52:26,563 INFO Login successful for user ID 31
+2024-11-11 17:55:39,525 INFO Received logout request
+2024-11-11 17:55:39,530 INFO Received logout request
+2024-11-11 17:55:39,532 WARNING Logout failed: Missing user_id
+2024-11-11 17:55:39,532 WARNING Logout failed: Missing user_id
+2024-11-11 18:19:12,735 INFO Received login request
+2024-11-11 18:19:13,544 INFO Database connection established
+2024-11-11 18:19:13,545 INFO Checking if user exists in database
+2024-11-11 18:19:13,920 INFO Creating or updating session for user
+2024-11-11 18:19:14,238 INFO Login successful for user ID 32
+2024-11-12 14:01:24,243 INFO Received login request
+2024-11-12 14:01:25,430 INFO Database connection established
+2024-11-12 14:01:25,430 INFO Checking if user exists in database
+2024-11-12 14:01:26,049 INFO Creating or updating session for user
+2024-11-12 14:01:26,605 INFO Login successful for user ID 33
+2024-11-12 14:01:46,479 INFO Received logout request
+2024-11-12 14:01:48,308 INFO Database connection established
+2024-11-12 14:01:48,308 INFO Checking active session for user ID 33
+2024-11-12 14:01:48,521 INFO Updating logout time for user
+2024-11-12 14:01:48,920 INFO Logout successful for user ID 33
+2024-11-12 14:02:25,375 INFO Received login request
+2024-11-12 14:02:27,135 INFO Database connection established
+2024-11-12 14:02:27,136 INFO Checking if user exists in database
+2024-11-12 14:02:27,686 INFO Creating or updating session for user
+2024-11-12 14:02:28,463 INFO Login successful for user ID 33
+2024-11-12 14:09:23,555 INFO Received login request
+2024-11-12 14:09:25,547 INFO Database connection established
+2024-11-12 14:09:25,547 INFO Checking if user exists in database
+2024-11-12 14:09:26,181 INFO Creating or updating session for user
+2024-11-12 14:09:26,202 INFO Received login request
+2024-11-12 14:09:26,660 INFO Login successful for user ID 34
+2024-11-12 14:09:27,496 INFO Database connection established
+2024-11-12 14:09:27,497 INFO Checking if user exists in database
+2024-11-12 14:09:28,057 INFO Creating or updating session for user
+2024-11-12 14:09:28,603 INFO Login successful for user ID 34
+2024-11-12 14:09:37,879 INFO Received logout request
+2024-11-12 14:09:39,876 INFO Database connection established
+2024-11-12 14:09:39,876 INFO Checking active session for user ID 34
+2024-11-12 14:09:40,087 INFO Updating logout time for user
+2024-11-12 14:09:40,288 ERROR Logout failed: (1062, "Duplicate entry '34-2024-11-12 08:39:35' for key 'user_sessions.user_id'")
+2024-11-12 14:09:44,142 INFO Received logout request
+2024-11-12 14:09:46,628 INFO Database connection established
+2024-11-12 14:09:46,628 INFO Checking active session for user ID 34
+2024-11-12 14:09:46,841 INFO Updating logout time for user
+2024-11-12 14:09:47,350 ERROR Logout failed: (1062, "Duplicate entry '34-2024-11-12 08:39:42' for key 'user_sessions.user_id'")
+2024-11-12 14:10:30,574 INFO Received logout request
+2024-11-12 14:10:32,205 INFO Database connection established
+2024-11-12 14:10:32,207 INFO Checking active session for user ID 34
+2024-11-12 14:10:32,520 INFO Updating logout time for user
+2024-11-12 14:10:32,730 ERROR Logout failed: (1062, "Duplicate entry '34-2024-11-12 08:40:27' for key 'user_sessions.user_id'")
+2024-11-12 14:10:57,933 INFO Received logout request
+2024-11-12 14:10:59,445 INFO Database connection established
+2024-11-12 14:10:59,446 INFO Checking active session for user ID 34
+2024-11-12 14:10:59,747 INFO Updating logout time for user
+2024-11-12 14:11:00,471 ERROR Logout failed: (1062, "Duplicate entry '34-2024-11-12 08:40:55' for key 'user_sessions.user_id'")
+2024-11-12 15:45:01,258 INFO Received login request
+2024-11-12 15:45:02,433 INFO Database connection established
+2024-11-12 15:45:02,434 INFO Checking if user exists in database
+2024-11-12 15:45:02,915 INFO Creating or updating session for user
+2024-11-12 15:45:03,649 INFO Login successful for user ID 35
+2024-11-12 15:45:16,024 INFO Received logout request
+2024-11-12 15:45:17,073 INFO Database connection established
+2024-11-12 15:45:17,075 INFO Checking active session for user ID 35
+2024-11-12 15:45:17,386 INFO Updating logout time for user
+2024-11-12 15:45:17,893 INFO Logout successful for user ID 35
+2024-11-12 15:47:02,550 INFO Received login request
+2024-11-12 15:47:05,218 INFO Database connection established
+2024-11-12 15:47:05,219 INFO Checking if user exists in database
+2024-11-12 15:47:05,520 WARNING Login failed: User not found
+2024-11-12 15:48:53,160 INFO Received login request
+2024-11-12 15:48:54,391 INFO Database connection established
+2024-11-12 15:48:54,393 INFO Checking if user exists in database
+2024-11-12 15:48:55,266 INFO Creating or updating session for user
+2024-11-12 15:48:55,819 INFO Login successful for user ID 36
+2024-11-13 15:44:27,824 INFO Received login request
+2024-11-13 15:44:29,416 INFO Database connection established
+2024-11-13 15:44:29,430 INFO Checking if user exists in database
+2024-11-13 15:44:29,897 INFO Creating or updating session for user
+2024-11-13 15:44:30,627 INFO Login successful for user ID 38
+2024-11-13 16:01:03,442 INFO Received login request
+2024-11-13 16:01:06,791 INFO Database connection established
+2024-11-13 16:01:06,792 INFO Checking if user exists in database
+2024-11-13 16:01:07,750 WARNING Login failed: Invalid password
+2024-11-13 16:01:13,572 INFO Received login request
+2024-11-13 16:01:16,516 INFO Database connection established
+2024-11-13 16:01:16,517 INFO Checking if user exists in database
+2024-11-13 16:01:17,289 INFO Creating or updating session for user
+2024-11-13 16:01:18,259 INFO Login successful for user ID 38
+2024-11-13 16:01:24,552 INFO Received logout request
+2024-11-13 16:01:28,918 INFO Database connection established
+2024-11-13 16:01:28,921 INFO Checking active session for user ID 38
+2024-11-13 16:01:29,523 INFO Updating logout time for user
+2024-11-13 16:01:30,056 ERROR Logout failed: (1062, "Duplicate entry '38-2024-11-13 10:31:23' for key 'user_sessions.user_id'")
+2024-11-13 16:07:51,395 INFO Received login request
+2024-11-13 16:07:54,890 INFO Database connection established
+2024-11-13 16:07:54,891 INFO Checking if user exists in database
+2024-11-13 16:07:56,314 INFO Creating or updating session for user
+2024-11-13 16:07:58,782 INFO Login successful for user ID 39
+2024-11-13 16:08:05,231 INFO Received logout request
+2024-11-13 16:08:09,157 INFO Database connection established
+2024-11-13 16:08:09,158 INFO Checking active session for user ID 39
+2024-11-13 16:08:09,712 INFO Updating logout time for user
+2024-11-13 16:08:10,431 INFO Logout successful for user ID 39
+2024-11-13 16:13:48,201 INFO Received login request
+2024-11-13 16:13:49,944 INFO Database connection established
+2024-11-13 16:13:49,945 INFO Checking if user exists in database
+2024-11-13 16:13:50,980 INFO Creating or updating session for user
+2024-11-13 16:13:51,489 INFO Login successful for user ID 40
+2024-11-13 16:19:44,747 INFO Received login request
+2024-11-13 16:19:47,109 INFO Database connection established
+2024-11-13 16:19:47,110 INFO Checking if user exists in database
+2024-11-13 16:19:48,020 INFO Creating or updating session for user
+2024-11-13 16:19:48,849 INFO Login successful for user ID 42
+2024-11-13 16:26:05,281 INFO Received login request
+2024-11-13 16:26:08,170 INFO Database connection established
+2024-11-13 16:26:08,170 INFO Checking if user exists in database
+2024-11-13 16:26:08,998 INFO Creating or updating session for user
+2024-11-13 16:26:10,229 INFO Login successful for user ID 43
+2024-11-13 16:29:08,974 INFO Received login request
+2024-11-13 16:29:09,897 INFO Database connection established
+2024-11-13 16:29:09,898 INFO Checking if user exists in database
+2024-11-13 16:29:10,518 INFO Creating or updating session for user
+2024-11-13 16:29:10,860 INFO Login successful for user ID 43
+2024-11-13 16:35:08,087 INFO Received login request
+2024-11-13 16:35:10,251 INFO Database connection established
+2024-11-13 16:35:10,251 INFO Checking if user exists in database
+2024-11-13 16:35:10,925 INFO Creating or updating session for user
+2024-11-13 16:35:11,745 INFO Login successful for user ID 44
+2024-11-13 16:40:27,201 INFO Received login request
+2024-11-13 16:40:31,733 INFO Database connection established
+2024-11-13 16:40:31,734 INFO Checking if user exists in database
+2024-11-13 16:40:34,058 INFO Creating or updating session for user
+2024-11-13 16:40:34,771 INFO Login successful for user ID 45
+2024-11-13 16:40:45,480 INFO Received logout request
+2024-11-13 16:40:48,159 INFO Database connection established
+2024-11-13 16:40:48,159 INFO Checking active session for user ID 45
+2024-11-13 16:40:49,898 INFO Updating logout time for user
+2024-11-13 16:40:50,720 INFO Logout successful for user ID 45
+2024-11-13 16:41:35,434 INFO Received login request
+2024-11-13 16:41:38,672 INFO Database connection established
+2024-11-13 16:41:38,673 INFO Checking if user exists in database
+2024-11-13 16:41:39,365 INFO Creating or updating session for user
+2024-11-13 16:41:41,132 INFO Login successful for user ID 45
+2024-11-13 17:01:47,930 INFO Received login request
+2024-11-13 17:01:48,769 INFO Database connection established
+2024-11-13 17:01:48,770 INFO Checking if user exists in database
+2024-11-13 17:01:49,092 INFO Creating or updating session for user
+2024-11-13 17:01:49,430 INFO Login successful for user ID 46
+2024-11-13 17:54:40,009 INFO Received login request
+2024-11-13 17:54:40,977 INFO Database connection established
+2024-11-13 17:54:40,979 INFO Checking if user exists in database
+2024-11-13 17:54:41,286 INFO Creating or updating session for user
+2024-11-13 17:54:41,635 INFO Login successful for user ID 47
+2024-11-13 18:18:39,733 INFO Received logout request
+2024-11-13 18:18:40,624 INFO Database connection established
+2024-11-13 18:18:40,625 INFO Checking active session for user ID 47
+2024-11-13 18:18:40,806 INFO Updating logout time for user
+2024-11-13 18:18:41,164 INFO Logout successful for user ID 47
+2024-11-13 18:18:57,287 INFO Received login request
+2024-11-13 18:18:58,216 INFO Database connection established
+2024-11-13 18:18:58,220 INFO Checking if user exists in database
+2024-11-13 18:18:58,592 INFO Creating or updating session for user
+2024-11-13 18:18:58,919 INFO Login successful for user ID 47
+2024-11-14 10:11:03,609 INFO Received logout request
+2024-11-14 10:11:05,253 INFO Database connection established
+2024-11-14 10:11:05,253 INFO Checking active session for user ID 47
+2024-11-14 10:11:05,466 WARNING Logout failed: No active session found for user
+2024-11-14 10:13:44,713 INFO Received login request
+2024-11-14 10:13:45,603 INFO Database connection established
+2024-11-14 10:13:45,603 INFO Checking if user exists in database
+2024-11-14 10:13:45,932 INFO Creating or updating session for user
+2024-11-14 10:13:46,315 INFO Login successful for user ID 53
+2024-11-14 13:05:07,405 INFO Received login request
+2024-11-14 13:05:09,040 INFO Database connection established
+2024-11-14 13:05:09,040 INFO Checking if user exists in database
+2024-11-14 13:05:09,429 INFO Creating or updating session for user
+2024-11-14 13:05:09,830 INFO Login successful for user ID 60
+2024-11-14 13:05:37,937 INFO Received login request
+2024-11-14 13:05:40,419 INFO Database connection established
+2024-11-14 13:05:40,419 INFO Checking if user exists in database
+2024-11-14 13:05:41,952 WARNING Login failed: User not found
+2024-11-14 13:05:45,733 INFO Received login request
+2024-11-14 13:05:48,134 INFO Database connection established
+2024-11-14 13:05:48,134 INFO Checking if user exists in database
+2024-11-14 13:05:48,416 WARNING Login failed: User not found
+2024-11-14 13:06:05,842 INFO Received logout request
+2024-11-14 13:06:07,789 INFO Database connection established
+2024-11-14 13:06:07,789 INFO Checking active session for user ID 60
+2024-11-14 13:06:08,187 INFO Updating logout time for user
+2024-11-14 13:06:09,122 INFO Logout successful for user ID 60
+2024-11-14 13:06:13,862 INFO Received login request
+2024-11-14 13:06:15,368 INFO Database connection established
+2024-11-14 13:06:15,369 INFO Checking if user exists in database
+2024-11-14 13:06:15,659 WARNING Login failed: User not found
+2024-11-14 13:06:33,925 INFO Received login request
+2024-11-14 13:06:35,381 INFO Database connection established
+2024-11-14 13:06:35,381 INFO Checking if user exists in database
+2024-11-14 13:06:35,985 INFO Creating or updating session for user
+2024-11-14 13:06:36,549 INFO Login successful for user ID 60
+2024-11-14 13:07:34,125 INFO Received logout request
+2024-11-14 13:07:35,527 INFO Database connection established
+2024-11-14 13:07:35,528 INFO Checking active session for user ID 60
+2024-11-14 13:07:35,929 INFO Updating logout time for user
+2024-11-14 13:07:36,148 ERROR Logout failed: (1062, "Duplicate entry '60-2024-11-14 07:37:28' for key 'user_sessions.user_id'")
+2024-11-14 13:09:13,417 INFO Received logout request
+2024-11-14 13:09:15,197 INFO Database connection established
+2024-11-14 13:09:15,198 INFO Checking active session for user ID 60
+2024-11-14 13:09:15,476 INFO Updating logout time for user
+2024-11-14 13:09:15,987 ERROR Logout failed: (1062, "Duplicate entry '60-2024-11-14 07:39:07' for key 'user_sessions.user_id'")
+2024-11-14 13:16:53,605 INFO Received logout request
+2024-11-14 13:16:56,597 INFO Database connection established
+2024-11-14 13:16:56,597 INFO Checking active session for user ID 60
+2024-11-14 13:16:56,808 INFO Updating logout time for user
+2024-11-14 13:16:58,022 ERROR Logout failed: (1062, "Duplicate entry '60-2024-11-14 07:46:49' for key 'user_sessions.user_id'")
+2024-11-14 13:18:45,395 INFO Received logout request
+2024-11-14 13:18:48,671 INFO Database connection established
+2024-11-14 13:18:48,671 INFO Checking active session for user ID 60
+2024-11-14 13:18:49,962 INFO Updating logout time for user
+2024-11-14 13:18:50,342 ERROR Logout failed: (1062, "Duplicate entry '60-2024-11-14 07:48:42' for key 'user_sessions.user_id'")
+2024-11-14 13:20:38,022 INFO Received logout request
+2024-11-14 13:20:41,364 INFO Database connection established
+2024-11-14 13:20:41,364 INFO Checking active session for user ID 60
+2024-11-14 13:20:41,682 INFO Updating logout time for user
+2024-11-14 13:20:42,167 ERROR Logout failed: (1062, "Duplicate entry '60-2024-11-14 07:50:34' for key 'user_sessions.user_id'")
+2024-11-14 13:37:15,037 INFO Received logout request
+2024-11-14 13:37:17,223 INFO Database connection established
+2024-11-14 13:37:17,223 INFO Checking active session for user ID 60
+2024-11-14 13:37:17,847 INFO Updating logout time for user
+2024-11-14 13:37:18,158 ERROR Logout failed: (1062, "Duplicate entry '60-2024-11-14 08:07:10' for key 'user_sessions.user_id'")
+2024-11-14 13:49:49,543 INFO Received login request
+2024-11-14 13:49:51,529 INFO Database connection established
+2024-11-14 13:49:51,530 INFO Checking if user exists in database
+2024-11-14 13:49:52,600 INFO Creating or updating session for user
+2024-11-14 13:49:53,168 INFO Login successful for user ID 61
+2024-11-14 13:49:59,852 INFO Received logout request
+2024-11-14 13:50:02,078 INFO Database connection established
+2024-11-14 13:50:02,078 INFO Checking active session for user ID 61
+2024-11-14 13:50:02,604 INFO Updating logout time for user
+2024-11-14 13:50:03,203 INFO Logout successful for user ID 61
+2024-11-14 13:50:33,373 INFO Received login request
+2024-11-14 13:50:35,850 INFO Database connection established
+2024-11-14 13:50:35,858 INFO Checking if user exists in database
+2024-11-14 13:50:36,752 INFO Creating or updating session for user
+2024-11-14 13:50:38,226 INFO Login successful for user ID 61
+2024-11-14 13:50:47,384 INFO Received logout request
+2024-11-14 13:50:48,799 INFO Database connection established
+2024-11-14 13:50:48,799 INFO Checking active session for user ID 61
+2024-11-14 13:50:49,063 INFO Updating logout time for user
+2024-11-14 13:50:49,589 INFO Logout successful for user ID 61
+2024-11-14 13:51:39,290 INFO Received login request
+2024-11-14 13:51:40,459 INFO Database connection established
+2024-11-14 13:51:40,459 INFO Checking if user exists in database
+2024-11-14 13:51:41,271 INFO Creating or updating session for user
+2024-11-14 13:51:41,910 INFO Login successful for user ID 61
+2024-11-14 13:51:48,560 INFO Received logout request
+2024-11-14 13:51:50,153 INFO Database connection established
+2024-11-14 13:51:50,164 INFO Checking active session for user ID 61
+2024-11-14 13:51:50,630 INFO Updating logout time for user
+2024-11-14 13:51:51,476 INFO Logout successful for user ID 61
+2024-11-14 14:02:10,401 INFO Received login request
+2024-11-14 14:02:11,249 INFO Database connection established
+2024-11-14 14:02:11,251 INFO Checking if user exists in database
+2024-11-14 14:02:11,689 INFO Creating or updating session for user
+2024-11-14 14:02:12,024 INFO Login successful for user ID 63
+2024-11-14 14:03:45,532 INFO Received logout request
+2024-11-14 14:03:46,550 INFO Database connection established
+2024-11-14 14:03:46,551 INFO Checking active session for user ID 63
+2024-11-14 14:03:46,745 INFO Updating logout time for user
+2024-11-14 14:03:47,205 INFO Logout successful for user ID 63
+2024-11-14 16:02:20,969 INFO Received login request
+2024-11-14 16:02:24,460 INFO Database connection established
+2024-11-14 16:02:24,461 INFO Checking if user exists in database
+2024-11-14 16:02:25,252 INFO Creating or updating session for user
+2024-11-14 16:02:26,286 INFO Login successful for user ID 63
+2024-11-14 16:02:32,387 INFO Received logout request
+2024-11-14 16:02:36,765 INFO Database connection established
+2024-11-14 16:02:36,766 INFO Checking active session for user ID 63
+2024-11-14 16:02:37,059 INFO Updating logout time for user
+2024-11-14 16:02:38,182 INFO Logout successful for user ID 63
+2024-11-14 16:03:22,346 INFO Received login request
+2024-11-14 16:03:25,596 INFO Database connection established
+2024-11-14 16:03:25,597 INFO Checking if user exists in database
+2024-11-14 16:03:26,535 INFO Creating or updating session for user
+2024-11-14 16:03:27,333 INFO Login successful for user ID 63
+2024-11-14 16:03:53,278 INFO Received logout request
+2024-11-14 16:03:56,011 INFO Database connection established
+2024-11-14 16:03:56,012 INFO Checking active session for user ID 63
+2024-11-14 16:03:57,336 INFO Updating logout time for user
+2024-11-14 16:03:57,956 INFO Logout successful for user ID 63
+2024-11-14 16:04:16,060 INFO Received login request
+2024-11-14 16:04:19,255 INFO Database connection established
+2024-11-14 16:04:19,256 INFO Checking if user exists in database
+2024-11-14 16:04:20,840 INFO Creating or updating session for user
+2024-11-14 16:04:22,734 INFO Login successful for user ID 63
+2024-11-14 16:04:35,325 INFO Received logout request
+2024-11-14 16:04:37,320 INFO Database connection established
+2024-11-14 16:04:37,321 INFO Checking active session for user ID 63
+2024-11-14 16:04:37,599 INFO Updating logout time for user
+2024-11-14 16:04:38,286 INFO Logout successful for user ID 63
+2024-11-14 16:05:04,963 INFO Received login request
+2024-11-14 16:05:07,205 INFO Database connection established
+2024-11-14 16:05:07,206 INFO Checking if user exists in database
+2024-11-14 16:05:08,479 WARNING Login failed: Invalid password
+2024-11-14 16:05:57,134 INFO Received login request
+2024-11-14 16:05:59,256 INFO Database connection established
+2024-11-14 16:05:59,257 INFO Checking if user exists in database
+2024-11-14 16:05:59,909 WARNING Login failed: Invalid password
+2024-11-14 16:06:32,137 INFO Received login request
+2024-11-14 16:06:34,134 INFO Database connection established
+2024-11-14 16:06:34,135 INFO Checking if user exists in database
+2024-11-14 16:06:34,760 WARNING Login failed: Invalid password
+2024-11-14 16:06:45,507 INFO Received login request
+2024-11-14 16:06:51,422 INFO Database connection established
+2024-11-14 16:06:51,424 INFO Checking if user exists in database
+2024-11-14 16:06:52,812 WARNING Login failed: Invalid password
+2024-11-14 16:13:48,494 INFO Received login request
+2024-11-14 16:13:50,852 INFO Database connection established
+2024-11-14 16:13:50,853 INFO Checking if user exists in database
+2024-11-14 16:13:51,162 WARNING Login failed: User not found
+2024-11-14 16:13:55,248 INFO Received login request
+2024-11-14 16:13:57,316 INFO Database connection established
+2024-11-14 16:13:57,318 INFO Checking if user exists in database
+2024-11-14 16:13:57,836 WARNING Login failed: User not found
+2024-11-14 16:15:59,886 INFO Received login request
+2024-11-14 16:16:02,260 INFO Database connection established
+2024-11-14 16:16:02,260 INFO Checking if user exists in database
+2024-11-14 16:16:02,655 WARNING Login failed: User not found
+2024-11-14 16:16:54,419 INFO Received login request
+2024-11-14 16:16:57,126 INFO Database connection established
+2024-11-14 16:16:57,127 INFO Checking if user exists in database
+2024-11-14 16:16:57,769 WARNING Login failed: User not found
+2024-11-14 16:49:16,443 INFO Received login request
+2024-11-14 16:49:18,224 INFO Database connection established
+2024-11-14 16:49:18,225 INFO Checking if user exists in database
+2024-11-14 16:49:19,033 INFO Creating or updating session for user
+2024-11-14 16:49:21,772 INFO Login successful for user ID 64
+2024-11-14 16:49:35,851 INFO Received logout request
+2024-11-14 16:49:40,496 INFO Database connection established
+2024-11-14 16:49:40,497 INFO Checking active session for user ID 64
+2024-11-14 16:49:40,797 INFO Updating logout time for user
+2024-11-14 16:49:41,307 INFO Logout successful for user ID 64
+2024-11-14 17:01:40,063 INFO Received login request
+2024-11-14 17:01:42,538 INFO Database connection established
+2024-11-14 17:01:42,540 INFO Checking if user exists in database
+2024-11-14 17:01:43,410 INFO Creating or updating session for user
+2024-11-14 17:01:44,243 INFO Login successful for user ID 63
+2024-11-14 17:01:46,701 INFO Received logout request
+2024-11-14 17:01:48,478 INFO Database connection established
+2024-11-14 17:01:48,479 INFO Checking active session for user ID 63
+2024-11-14 17:01:48,785 INFO Updating logout time for user
+2024-11-14 17:01:49,389 INFO Logout successful for user ID 63
+2024-11-14 17:02:10,127 INFO Received login request
+2024-11-14 17:02:11,615 INFO Database connection established
+2024-11-14 17:02:11,616 INFO Checking if user exists in database
+2024-11-14 17:02:13,115 INFO Creating or updating session for user
+2024-11-14 17:02:13,954 INFO Login successful for user ID 63
+2024-11-14 17:02:21,428 INFO Received logout request
+2024-11-14 17:02:23,297 INFO Database connection established
+2024-11-14 17:02:23,298 INFO Checking active session for user ID 63
+2024-11-14 17:02:23,629 INFO Updating logout time for user
+2024-11-14 17:02:24,419 INFO Logout successful for user ID 63
+2024-11-14 17:04:18,930 INFO Received login request
+2024-11-14 17:04:20,439 INFO Database connection established
+2024-11-14 17:04:20,439 INFO Checking if user exists in database
+2024-11-14 17:04:20,914 INFO Creating or updating session for user
+2024-11-14 17:04:21,466 INFO Login successful for user ID 63
+2024-11-14 17:04:24,615 INFO Received logout request
+2024-11-14 17:04:26,297 INFO Database connection established
+2024-11-14 17:04:26,299 INFO Checking active session for user ID 63
+2024-11-14 17:04:27,089 INFO Updating logout time for user
+2024-11-14 17:04:28,933 INFO Logout successful for user ID 63
+2024-11-14 17:05:26,156 INFO Received login request
+2024-11-14 17:05:29,657 INFO Database connection established
+2024-11-14 17:05:29,658 INFO Checking if user exists in database
+2024-11-14 17:05:30,227 INFO Creating or updating session for user
+2024-11-14 17:05:31,515 INFO Login successful for user ID 63
+2024-11-14 17:05:53,479 INFO Received logout request
+2024-11-14 17:05:55,165 INFO Database connection established
+2024-11-14 17:05:55,167 INFO Checking active session for user ID 63
+2024-11-14 17:05:55,593 INFO Updating logout time for user
+2024-11-14 17:05:56,512 INFO Logout successful for user ID 63
+2024-11-14 17:08:04,675 INFO Received login request
+2024-11-14 17:08:25,710 ERROR Database connection failed: (2002, "Can't connect to server on '141.136.42.65' (10060)")
+2024-11-14 17:08:25,711 ERROR Database connection failed during login
+2024-11-14 17:09:24,920 INFO Received login request
+2024-11-14 17:09:45,972 ERROR Database connection failed: (2002, "Can't connect to server on '141.136.42.65' (10060)")
+2024-11-14 17:09:45,973 ERROR Database connection failed during login
+2024-11-14 17:12:00,087 INFO Received login request
+2024-11-14 17:12:21,122 ERROR Database connection failed: (2002, "Can't connect to server on '141.136.42.65' (10060)")
+2024-11-14 17:12:21,123 ERROR Database connection failed during login
+2024-11-14 17:41:26,399 INFO Received login request
+2024-11-14 17:41:27,311 INFO Database connection established
+2024-11-14 17:41:27,312 INFO Checking if user exists in database
+2024-11-14 17:41:27,700 INFO Creating or updating session for user
+2024-11-14 17:41:28,027 INFO Login successful for user ID 2
+2024-11-14 17:41:37,650 INFO Received logout request
+2024-11-14 17:41:38,789 INFO Database connection established
+2024-11-14 17:41:38,789 INFO Checking active session for user ID 2
+2024-11-14 17:41:38,982 INFO Updating logout time for user
+2024-11-14 17:41:39,435 INFO Logout successful for user ID 2
+2024-11-14 17:41:56,817 INFO Received login request
+2024-11-14 17:41:58,026 INFO Database connection established
+2024-11-14 17:41:58,026 INFO Checking if user exists in database
+2024-11-14 17:41:58,354 INFO Creating or updating session for user
+2024-11-14 17:41:58,671 INFO Login successful for user ID 2
+2024-11-14 17:42:03,880 INFO Received logout request
+2024-11-14 17:42:04,781 INFO Database connection established
+2024-11-14 17:42:04,781 INFO Checking active session for user ID 2
+2024-11-14 17:42:04,953 INFO Updating logout time for user
+2024-11-14 17:42:05,309 INFO Logout successful for user ID 2
+2024-11-14 17:56:13,223 INFO Received login request
+2024-11-14 17:56:14,218 INFO Database connection established
+2024-11-14 17:56:14,219 INFO Checking if user exists in database
+2024-11-14 17:56:15,042 INFO Creating or updating session for user
+2024-11-14 17:56:15,372 INFO Login successful for user ID 2
+2024-11-14 17:56:20,180 INFO Received logout request
+2024-11-14 17:56:21,080 INFO Database connection established
+2024-11-14 17:56:21,081 INFO Checking active session for user ID 2
+2024-11-14 17:56:21,243 INFO Updating logout time for user
+2024-11-14 17:56:21,553 INFO Logout successful for user ID 2
+2024-11-14 17:56:46,785 INFO Received login request
+2024-11-14 17:56:47,699 INFO Database connection established
+2024-11-14 17:56:47,700 INFO Checking if user exists in database
+2024-11-14 17:56:48,069 INFO Creating or updating session for user
+2024-11-14 17:56:48,415 INFO Login successful for user ID 2
+2024-11-14 17:56:51,811 INFO Received logout request
+2024-11-14 17:56:52,821 INFO Database connection established
+2024-11-14 17:56:52,821 INFO Checking active session for user ID 2
+2024-11-14 17:56:53,026 INFO Updating logout time for user
+2024-11-14 17:56:53,435 INFO Logout successful for user ID 2
+2024-11-14 17:58:13,877 INFO Received login request
+2024-11-14 17:58:14,716 INFO Database connection established
+2024-11-14 17:58:14,716 INFO Checking if user exists in database
+2024-11-14 17:58:14,876 WARNING Login failed: User not found
+2024-11-14 17:58:24,695 INFO Received login request
+2024-11-14 17:58:25,687 INFO Database connection established
+2024-11-14 17:58:25,687 INFO Checking if user exists in database
+2024-11-14 17:58:26,051 INFO Creating or updating session for user
+2024-11-14 17:58:26,460 INFO Login successful for user ID 2
+2024-11-14 17:58:56,823 INFO Received logout request
+2024-11-14 17:58:58,227 INFO Database connection established
+2024-11-14 17:58:58,227 INFO Checking active session for user ID 2
+2024-11-14 17:58:58,388 INFO Updating logout time for user
+2024-11-14 17:58:58,784 INFO Logout successful for user ID 2
+2024-11-14 17:59:45,449 INFO Received login request
+2024-11-14 17:59:46,590 INFO Database connection established
+2024-11-14 17:59:46,591 INFO Checking if user exists in database
+2024-11-14 17:59:46,961 INFO Creating or updating session for user
+2024-11-14 17:59:47,328 INFO Login successful for user ID 2
+2024-11-14 18:00:04,880 INFO Received logout request
+2024-11-14 18:00:05,887 INFO Database connection established
+2024-11-14 18:00:05,888 INFO Checking active session for user ID 2
+2024-11-14 18:00:06,076 INFO Updating logout time for user
+2024-11-14 18:00:06,458 INFO Logout successful for user ID 2
+2024-11-14 18:00:52,641 INFO Received login request
+2024-11-14 18:00:53,667 INFO Database connection established
+2024-11-14 18:00:53,668 INFO Checking if user exists in database
+2024-11-14 18:00:53,865 WARNING Login failed: User not found
+2024-11-14 18:00:59,715 INFO Received login request
+2024-11-14 18:01:00,540 INFO Database connection established
+2024-11-14 18:01:00,541 INFO Checking if user exists in database
+2024-11-14 18:01:00,917 INFO Creating or updating session for user
+2024-11-14 18:01:01,287 INFO Login successful for user ID 2
+2024-11-14 18:01:05,157 INFO Received logout request
+2024-11-14 18:01:06,073 INFO Database connection established
+2024-11-14 18:01:06,074 INFO Checking active session for user ID 2
+2024-11-14 18:01:06,290 INFO Updating logout time for user
+2024-11-14 18:01:06,693 INFO Logout successful for user ID 2
+2024-11-14 18:02:14,716 INFO Received login request
+2024-11-14 18:02:15,761 INFO Database connection established
+2024-11-14 18:02:15,761 INFO Checking if user exists in database
+2024-11-14 18:02:16,279 INFO Creating or updating session for user
+2024-11-14 18:02:16,613 INFO Login successful for user ID 2
+2024-11-14 18:02:26,927 INFO Received logout request
+2024-11-14 18:02:27,894 INFO Database connection established
+2024-11-14 18:02:27,895 INFO Checking active session for user ID 2
+2024-11-14 18:02:28,083 INFO Updating logout time for user
+2024-11-14 18:02:28,912 INFO Logout successful for user ID 2
+2024-11-14 18:03:53,201 INFO Received login request
+2024-11-14 18:03:54,107 INFO Database connection established
+2024-11-14 18:03:54,108 INFO Checking if user exists in database
+2024-11-14 18:03:54,425 INFO Creating or updating session for user
+2024-11-14 18:03:54,782 INFO Login successful for user ID 2
+2024-11-14 18:03:57,272 INFO Received logout request
+2024-11-14 18:03:58,160 INFO Database connection established
+2024-11-14 18:03:58,161 INFO Checking active session for user ID 2
+2024-11-14 18:03:58,325 INFO Updating logout time for user
+2024-11-14 18:03:58,825 INFO Logout successful for user ID 2
+2024-11-15 16:24:55,843 INFO Received login request
+2024-11-15 16:24:56,665 INFO Database connection established
+2024-11-15 16:24:56,666 INFO Checking if user exists in database
+2024-11-15 16:24:57,004 INFO Creating or updating session for user
+2024-11-15 16:24:57,326 INFO Login successful for user ID 3
+2024-11-15 16:25:58,999 INFO Received logout request
+2024-11-15 16:25:59,787 INFO Database connection established
+2024-11-15 16:25:59,787 INFO Checking active session for user ID 3
+2024-11-15 16:25:59,936 INFO Updating logout time for user
+2024-11-15 16:26:02,352 INFO Logout successful for user ID 3
+2024-11-15 16:27:29,756 INFO Received login request
+2024-11-15 16:27:30,541 INFO Database connection established
+2024-11-15 16:27:30,541 INFO Checking if user exists in database
+2024-11-15 16:27:30,960 INFO Creating or updating session for user
+2024-11-15 16:27:32,837 INFO Login successful for user ID 3
+2024-11-15 17:03:13,611 INFO Received logout request
+2024-11-15 17:03:14,429 INFO Database connection established
+2024-11-15 17:03:14,433 INFO Checking active session for user ID 3
+2024-11-15 17:03:14,617 INFO Updating logout time for user
+2024-11-15 17:03:14,944 INFO Logout successful for user ID 3
+2024-11-15 17:03:29,754 INFO Received login request
+2024-11-15 17:03:30,589 INFO Database connection established
+2024-11-15 17:03:30,589 INFO Checking if user exists in database
+2024-11-15 17:03:30,900 INFO Creating or updating session for user
+2024-11-15 17:03:31,247 INFO Login successful for user ID 3
+2024-11-15 17:03:33,551 INFO Received logout request
+2024-11-15 17:03:34,346 INFO Database connection established
+2024-11-15 17:03:34,347 INFO Checking active session for user ID 3
+2024-11-15 17:03:34,534 INFO Updating logout time for user
+2024-11-15 17:03:34,856 INFO Logout successful for user ID 3
+2024-11-15 17:04:05,504 INFO Received login request
+2024-11-15 17:04:07,840 INFO Database connection established
+2024-11-15 17:04:07,840 INFO Checking if user exists in database
+2024-11-15 17:04:08,118 INFO Creating or updating session for user
+2024-11-15 17:04:08,446 INFO Login successful for user ID 3
+2024-11-15 17:04:13,316 INFO Received logout request
+2024-11-15 17:04:14,134 INFO Database connection established
+2024-11-15 17:04:14,138 INFO Checking active session for user ID 3
+2024-11-15 17:04:14,313 INFO Updating logout time for user
+2024-11-15 17:04:14,649 INFO Logout successful for user ID 3
+2024-11-15 17:06:03,971 INFO Received login request
+2024-11-15 17:06:05,311 INFO Database connection established
+2024-11-15 17:06:05,311 INFO Checking if user exists in database
+2024-11-15 17:06:05,704 INFO Creating or updating session for user
+2024-11-15 17:06:06,034 INFO Login successful for user ID 3
+2024-11-15 17:06:08,196 INFO Received logout request
+2024-11-15 17:06:08,981 INFO Database connection established
+2024-11-15 17:06:08,982 INFO Checking active session for user ID 3
+2024-11-15 17:06:09,132 INFO Updating logout time for user
+2024-11-15 17:06:09,483 INFO Logout successful for user ID 3
+2024-11-15 17:38:44,265 INFO Received login request
+2024-11-15 17:38:45,065 INFO Database connection established
+2024-11-15 17:38:45,068 INFO Checking if user exists in database
+2024-11-15 17:38:45,377 INFO Creating or updating session for user
+2024-11-15 17:38:45,698 INFO Login successful for user ID 3
+2024-11-15 18:06:21,988 INFO Received logout request
+2024-11-15 18:06:22,791 INFO Database connection established
+2024-11-15 18:06:22,791 INFO Checking active session for user ID 3
+2024-11-15 18:06:22,961 INFO Updating logout time for user
+2024-11-15 18:06:23,269 INFO Logout successful for user ID 3
+2024-11-16 11:51:48,655 INFO Received login request
+2024-11-16 11:51:49,593 INFO Database connection established
+2024-11-16 11:51:49,595 INFO Checking if user exists in database
+2024-11-16 11:51:49,969 INFO Creating or updating session for user
+2024-11-16 11:51:50,310 INFO Login successful for user ID 3
+2024-11-16 12:24:41,705 INFO Received login request
+2024-11-16 12:24:43,488 INFO Database connection established
+2024-11-16 12:24:43,490 INFO Checking if user exists in database
+2024-11-16 12:24:46,691 INFO Creating or updating session for user
+2024-11-16 12:24:47,170 INFO Login successful for user ID 3
+2024-11-16 12:46:11,883 INFO Received logout request
+2024-11-16 12:46:13,574 INFO Database connection established
+2024-11-16 12:46:13,576 INFO Checking active session for user ID 3
+2024-11-16 12:46:13,943 INFO Updating logout time for user
+2024-11-16 12:46:14,479 INFO Logout successful for user ID 3
+2024-11-16 12:46:57,345 INFO Received login request
+2024-11-16 12:46:58,806 INFO Database connection established
+2024-11-16 12:46:58,807 INFO Checking if user exists in database
+2024-11-16 12:46:59,564 INFO Creating or updating session for user
+2024-11-16 12:47:00,964 INFO Login successful for user ID 3
+2024-11-16 16:07:46,563 INFO Received logout request
+2024-11-16 16:07:47,475 INFO Database connection established
+2024-11-16 16:07:47,475 INFO Checking active session for user ID 3
+2024-11-16 16:07:47,649 INFO Updating logout time for user
+2024-11-16 16:07:48,008 INFO Logout successful for user ID 3
+2024-11-16 16:08:07,267 INFO Received login request
+2024-11-16 16:08:08,208 INFO Database connection established
+2024-11-16 16:08:08,209 INFO Checking if user exists in database
+2024-11-16 16:08:09,237 INFO Creating or updating session for user
+2024-11-16 16:08:09,621 INFO Login successful for user ID 3
+2024-11-16 16:34:46,526 INFO Received logout request
+2024-11-16 16:34:47,518 INFO Database connection established
+2024-11-16 16:34:47,519 INFO Checking active session for user ID 3
+2024-11-16 16:34:47,700 INFO Updating logout time for user
+2024-11-16 16:34:48,052 INFO Logout successful for user ID 3
+2024-11-16 16:35:03,240 INFO Received login request
+2024-11-16 16:35:04,087 INFO Database connection established
+2024-11-16 16:35:04,088 INFO Checking if user exists in database
+2024-11-16 16:35:04,257 ERROR Login failed: (1054, "Unknown column 'is_first_login' in 'field list'")
+2024-11-16 16:39:43,546 INFO Received login request
+2024-11-16 16:39:44,470 INFO Database connection established
+2024-11-16 16:39:44,471 INFO Checking if user exists in database
+2024-11-16 16:39:44,860 INFO Updating is_first_login flag for user
+2024-11-16 16:39:45,234 INFO Creating or updating session for user
+2024-11-16 16:39:45,615 INFO Login successful for user ID 3
+2024-11-16 16:40:46,118 INFO Received logout request
+2024-11-16 16:40:47,125 INFO Database connection established
+2024-11-16 16:40:47,125 INFO Checking active session for user ID 3
+2024-11-16 16:40:47,325 WARNING Logout failed: No active session found for user
+2024-11-16 16:43:36,542 INFO Received login request
+2024-11-16 16:43:37,390 INFO Database connection established
+2024-11-16 16:43:37,390 INFO Checking if user exists in database
+2024-11-16 16:43:37,744 INFO Updating is_first_login flag for user
+2024-11-16 16:43:38,084 INFO Creating or updating session for user
+2024-11-16 16:43:38,422 INFO Login successful for user ID 19
+2024-11-16 16:44:37,753 INFO Received logout request
+2024-11-16 16:44:38,629 INFO Database connection established
+2024-11-16 16:44:38,630 INFO Checking active session for user ID 19
+2024-11-16 16:44:38,814 INFO Updating logout time for user
+2024-11-16 16:44:39,156 INFO Logout successful for user ID 19
+2024-11-16 16:44:56,814 INFO Received login request
+2024-11-16 16:44:57,686 INFO Database connection established
+2024-11-16 16:44:57,686 INFO Checking if user exists in database
+2024-11-16 16:44:58,011 INFO Creating or updating session for user
+2024-11-16 16:44:58,386 INFO Login successful for user ID 19
+2024-11-16 22:44:18,570 INFO Received logout request
+2024-11-16 22:44:19,354 INFO Database connection established
+2024-11-16 22:44:19,355 INFO Checking active session for user ID 19
+2024-11-16 22:44:19,506 INFO Updating logout time for user
+2024-11-16 22:44:19,814 INFO Logout successful for user ID 19
+2024-11-17 14:48:41,983 INFO Received login request
+2024-11-17 14:48:43,518 INFO Database connection established
+2024-11-17 14:48:43,519 INFO Checking if user exists in database
+2024-11-17 14:48:43,959 INFO Creating or updating session for user
+2024-11-17 14:48:44,515 INFO Login successful for user ID 19
+2024-11-17 14:48:52,425 INFO Received logout request
+2024-11-17 14:48:53,655 INFO Database connection established
+2024-11-17 14:48:53,656 INFO Checking active session for user ID 19
+2024-11-17 14:48:53,938 INFO Updating logout time for user
+2024-11-17 14:48:54,373 INFO Logout successful for user ID 19
+2024-11-17 14:51:04,867 INFO Received login request
+2024-11-17 14:51:06,045 INFO Database connection established
+2024-11-17 14:51:06,046 INFO Checking if user exists in database
+2024-11-17 14:51:06,837 INFO Updating is_first_login flag for user
+2024-11-17 14:51:07,290 INFO Creating or updating session for user
+2024-11-17 14:51:07,703 INFO Login successful for user ID 26
+2024-11-18 10:22:14,832 INFO Received logout request
+2024-11-18 10:22:15,765 INFO Database connection established
+2024-11-18 10:22:15,766 INFO Checking active session for user ID 26
+2024-11-18 10:22:15,942 INFO Updating logout time for user
+2024-11-18 10:22:16,954 INFO Logout successful for user ID 26
+2024-11-18 11:41:14,223 INFO Received login request
+2024-11-18 11:41:15,031 INFO Database connection established
+2024-11-18 11:41:15,031 INFO Checking if user exists in database
+2024-11-18 11:41:15,339 INFO Creating or updating session for user
+2024-11-18 11:41:15,685 INFO Login successful for user ID 19
+2024-11-18 13:35:21,195 INFO Received logout request
+2024-11-18 13:35:23,055 INFO Database connection established
+2024-11-18 13:35:23,056 INFO Checking active session for user ID 19
+2024-11-18 13:35:23,346 INFO Updating logout time for user
+2024-11-18 13:35:24,179 INFO Logout successful for user ID 19
+2024-11-18 13:42:14,539 INFO Received login request
+2024-11-18 13:42:16,133 INFO Database connection established
+2024-11-18 13:42:16,134 INFO Checking if user exists in database
+2024-11-18 13:42:16,903 INFO Updating is_first_login flag for user
+2024-11-18 13:42:17,471 INFO Creating or updating session for user
+2024-11-18 13:42:18,077 INFO Login successful for user ID 34
+2024-11-18 15:03:25,781 INFO Received logout request
+2024-11-18 15:03:26,792 INFO Database connection established
+2024-11-18 15:03:26,794 INFO Checking active session for user ID 34
+2024-11-18 15:03:27,030 INFO Updating logout time for user
+2024-11-18 15:03:27,363 INFO Logout successful for user ID 34
+2024-11-18 15:04:29,589 INFO Received login request
+2024-11-18 15:04:31,347 INFO Database connection established
+2024-11-18 15:04:31,348 INFO Checking if user exists in database
+2024-11-18 15:04:31,849 INFO Creating or updating session for user
+2024-11-18 15:04:32,173 INFO Login successful for user ID 29
+2024-11-18 16:14:09,508 INFO Received logout request
+2024-11-18 16:14:10,411 INFO Database connection established
+2024-11-18 16:14:10,412 INFO Checking active session for user ID 29
+2024-11-18 16:14:10,563 INFO Updating logout time for user
+2024-11-18 16:14:10,886 INFO Logout successful for user ID 29
+2024-11-18 16:18:56,264 INFO Received login request
+2024-11-18 16:18:57,115 INFO Database connection established
+2024-11-18 16:18:57,116 INFO Checking if user exists in database
+2024-11-18 16:18:57,281 ERROR Login failed: (1054, "Unknown column 'wallet_created' in 'field list'")
+2024-11-18 16:39:51,168 INFO Received login request
+2024-11-18 16:39:52,126 INFO Database connection established
+2024-11-18 16:39:52,126 INFO Checking if user exists in database
+2024-11-18 16:39:52,471 INFO Updating is_first_login flag for user
+2024-11-18 16:39:52,822 INFO Creating or updating session for user
+2024-11-18 16:39:53,131 INFO Login successful for user ID 35
+2024-11-18 17:15:38,524 INFO Received login request
+2024-11-18 17:15:41,072 INFO Database connection established
+2024-11-18 17:15:41,073 INFO Checking if user exists in database
+2024-11-18 17:15:41,253 ERROR Login failed: (1054, "Unknown column 'payment_completed' in 'field list'")
+2024-11-18 18:29:24,490 INFO Received logout request
+2024-11-18 18:29:25,304 INFO Database connection established
+2024-11-18 18:29:25,306 INFO Checking active session for user ID 35
+2024-11-18 18:29:25,474 INFO Updating logout time for user
+2024-11-18 18:29:25,790 INFO Logout successful for user ID 35
+2024-11-18 18:33:02,466 INFO Received login request
+2024-11-18 18:33:03,294 INFO Database connection established
+2024-11-18 18:33:03,294 INFO Checking if user exists in database
+2024-11-18 18:33:03,630 INFO Updating is_first_login flag for user
+2024-11-18 18:33:03,949 INFO Creating or updating session for user
+2024-11-18 18:33:04,291 INFO Login successful for user ID 36
+2024-11-20 22:47:29,546 INFO Received logout request
+2024-11-20 22:47:30,465 INFO Database connection established
+2024-11-20 22:47:30,466 INFO Checking active session for user ID 3
+2024-11-20 22:47:30,677 WARNING Logout failed: No active session found for user
+2024-11-21 10:37:38,873 INFO Received login request
+2024-11-21 10:37:39,744 INFO Database connection established
+2024-11-21 10:37:39,745 INFO Checking if user exists in database
+2024-11-21 10:37:40,187 INFO Creating or updating session for user
+2024-11-21 10:37:40,536 INFO Login successful for user ID 19
+2024-11-21 10:38:33,903 INFO Received logout request
+2024-11-21 10:38:34,940 INFO Database connection established
+2024-11-21 10:38:34,941 INFO Checking active session for user ID 19
+2024-11-21 10:38:35,144 INFO Updating logout time for user
+2024-11-21 10:38:35,553 INFO Logout successful for user ID 19
+2024-11-21 11:35:48,242 INFO Received login request
+2024-11-21 11:35:49,038 INFO Database connection established
+2024-11-21 11:35:49,040 INFO Checking if user exists in database
+2024-11-21 11:35:49,189 ERROR Login failed: (1054, "Unknown column 'payment_completed' in 'field list'")
+2024-11-21 11:42:14,178 INFO Received login request
+2024-11-21 11:42:15,018 INFO Database connection established
+2024-11-21 11:42:15,019 INFO Checking if user exists in database
+2024-11-21 11:42:15,404 INFO Updating is_first_login flag for user
+2024-11-21 11:42:15,722 INFO Creating or updating session for user
+2024-11-21 11:42:16,041 INFO Login successful for user ID 37
+2024-11-21 11:42:37,834 INFO Received login request
+2024-11-21 11:42:38,577 INFO Database connection established
+2024-11-21 11:42:38,578 INFO Checking if user exists in database
+2024-11-21 11:42:38,899 INFO Creating or updating session for user
+2024-11-21 11:42:39,192 INFO Login successful for user ID 37
+2024-11-21 11:43:26,088 INFO Received login request
+2024-11-21 11:43:26,861 INFO Database connection established
+2024-11-21 11:43:26,862 INFO Checking if user exists in database
+2024-11-21 11:43:27,219 INFO Creating or updating session for user
+2024-11-21 11:43:27,521 INFO Login successful for user ID 37
+2024-11-21 11:44:12,983 INFO Received login request
+2024-11-21 11:44:13,728 INFO Database connection established
+2024-11-21 11:44:13,728 INFO Checking if user exists in database
+2024-11-21 11:44:14,046 INFO Creating or updating session for user
+2024-11-21 11:44:14,338 INFO Login successful for user ID 37
+2024-11-21 11:45:49,482 INFO Received login request
+2024-11-21 11:45:50,240 INFO Database connection established
+2024-11-21 11:45:50,240 INFO Checking if user exists in database
+2024-11-21 11:45:50,551 INFO Creating or updating session for user
+2024-11-21 11:45:50,855 INFO Login successful for user ID 19
+2024-11-21 11:56:47,999 INFO Received login request
+2024-11-21 11:56:48,751 INFO Database connection established
+2024-11-21 11:56:48,752 INFO Checking if user exists in database
+2024-11-21 11:56:49,069 INFO Creating or updating session for user
+2024-11-21 11:56:49,361 INFO Login successful for user ID 37
+2024-11-21 12:40:07,297 INFO Received login request
+2024-11-21 12:40:08,088 INFO Database connection established
+2024-11-21 12:40:08,088 INFO Checking if user exists in database
+2024-11-21 12:40:08,435 INFO Creating or updating session for user
+2024-11-21 12:40:08,747 INFO Login successful for user ID 19
+2024-11-21 12:42:40,631 INFO Received logout request
+2024-11-21 12:42:41,629 INFO Database connection established
+2024-11-21 12:42:41,631 INFO Checking active session for user ID 19
+2024-11-21 12:42:41,834 INFO Updating logout time for user
+2024-11-21 12:42:42,243 INFO Logout successful for user ID 19
+2024-11-21 12:42:58,481 INFO Received login request
+2024-11-21 12:42:59,550 INFO Database connection established
+2024-11-21 12:42:59,551 INFO Checking if user exists in database
+2024-11-21 12:42:59,937 INFO Creating or updating session for user
+2024-11-21 12:43:00,367 INFO Login successful for user ID 19
+2024-11-21 12:45:25,138 INFO Received login request
+2024-11-21 12:45:26,187 INFO Database connection established
+2024-11-21 12:45:26,188 INFO Checking if user exists in database
+2024-11-21 12:45:26,723 INFO Creating or updating session for user
+2024-11-21 12:45:27,116 INFO Login successful for user ID 19
+2024-11-21 12:46:43,331 INFO Received logout request
+2024-11-21 12:46:44,321 INFO Database connection established
+2024-11-21 12:46:44,323 INFO Checking active session for user ID 19
+2024-11-21 12:46:44,536 INFO Updating logout time for user
+2024-11-21 12:46:44,936 INFO Logout successful for user ID 19
+2024-11-21 12:47:15,382 INFO Received login request
+2024-11-21 12:47:16,476 INFO Database connection established
+2024-11-21 12:47:16,477 INFO Checking if user exists in database
+2024-11-21 12:47:17,039 INFO Creating or updating session for user
+2024-11-21 12:47:17,500 INFO Login successful for user ID 19
+2024-11-21 13:08:15,917 INFO Received login request
+2024-11-21 13:08:16,709 INFO Database connection established
+2024-11-21 13:08:16,712 INFO Checking if user exists in database
+2024-11-21 13:08:17,073 INFO Updating is_first_login flag for user
+2024-11-21 13:08:17,388 INFO Creating or updating session for user
+2024-11-21 13:08:17,700 INFO Login successful for user ID 38
+2024-11-21 13:15:32,116 INFO Received login request
+2024-11-21 13:15:32,927 INFO Database connection established
+2024-11-21 13:15:32,927 INFO Checking if user exists in database
+2024-11-21 13:15:33,354 INFO Creating or updating session for user
+2024-11-21 13:15:33,662 INFO Login successful for user ID 38
+2024-11-21 13:16:08,852 INFO Received logout request
+2024-11-21 13:16:09,645 INFO Database connection established
+2024-11-21 13:16:09,646 INFO Checking active session for user ID 38
+2024-11-21 13:16:09,804 INFO Updating logout time for user
+2024-11-21 13:16:10,122 INFO Logout successful for user ID 38
+2024-11-21 13:17:49,699 INFO Received login request
+2024-11-21 13:17:50,448 INFO Database connection established
+2024-11-21 13:17:50,449 INFO Checking if user exists in database
+2024-11-21 13:17:50,891 INFO Updating is_first_login flag for user
+2024-11-21 13:17:51,209 INFO Creating or updating session for user
+2024-11-21 13:17:51,506 INFO Login successful for user ID 39
+2024-11-21 13:19:01,545 INFO Received logout request
+2024-11-21 13:19:02,297 INFO Database connection established
+2024-11-21 13:19:02,298 INFO Checking active session for user ID 39
+2024-11-21 13:19:02,449 INFO Updating logout time for user
+2024-11-21 13:19:02,757 INFO Logout successful for user ID 39
+2024-11-21 13:19:20,082 INFO Received login request
+2024-11-21 13:19:20,877 INFO Database connection established
+2024-11-21 13:19:20,878 INFO Checking if user exists in database
+2024-11-21 13:19:21,395 INFO Creating or updating session for user
+2024-11-21 13:19:21,715 INFO Login successful for user ID 39
+2024-11-21 13:19:26,604 INFO Received logout request
+2024-11-21 13:19:27,394 INFO Database connection established
+2024-11-21 13:19:27,395 INFO Checking active session for user ID 39
+2024-11-21 13:19:27,552 INFO Updating logout time for user
+2024-11-21 13:19:27,870 INFO Logout successful for user ID 39
+2024-11-21 13:21:44,096 INFO Received login request
+2024-11-21 13:21:44,899 INFO Database connection established
+2024-11-21 13:21:44,899 INFO Checking if user exists in database
+2024-11-21 13:21:45,404 INFO Creating or updating session for user
+2024-11-21 13:21:45,712 INFO Login successful for user ID 39
+2024-11-21 13:21:50,464 INFO Received logout request
+2024-11-21 13:21:51,237 INFO Database connection established
+2024-11-21 13:21:51,238 INFO Checking active session for user ID 39
+2024-11-21 13:21:51,395 INFO Updating logout time for user
+2024-11-21 13:21:51,712 INFO Logout successful for user ID 39
+2024-11-21 13:23:23,502 INFO Received login request
+2024-11-21 13:23:24,235 INFO Database connection established
+2024-11-21 13:23:24,237 INFO Checking if user exists in database
+2024-11-21 13:23:24,689 INFO Updating is_first_login flag for user
+2024-11-21 13:23:24,986 INFO Creating or updating session for user
+2024-11-21 13:23:25,282 INFO Login successful for user ID 40
+2024-11-21 13:24:17,949 INFO Received logout request
+2024-11-21 13:24:18,721 INFO Database connection established
+2024-11-21 13:24:18,722 INFO Checking active session for user ID 40
+2024-11-21 13:24:18,871 INFO Updating logout time for user
+2024-11-21 13:24:19,180 INFO Logout successful for user ID 40
+2024-11-21 13:24:45,952 INFO Received login request
+2024-11-21 13:24:46,697 INFO Database connection established
+2024-11-21 13:24:46,697 INFO Checking if user exists in database
+2024-11-21 13:24:47,184 INFO Creating or updating session for user
+2024-11-21 13:24:47,494 INFO Login successful for user ID 40
+2024-11-21 13:24:54,009 INFO Received logout request
+2024-11-21 13:24:54,885 INFO Database connection established
+2024-11-21 13:24:54,886 INFO Checking active session for user ID 40
+2024-11-21 13:24:55,101 INFO Updating logout time for user
+2024-11-21 13:24:55,432 INFO Logout successful for user ID 40
+2024-11-21 13:25:22,177 INFO Received login request
+2024-11-21 13:25:23,647 INFO Database connection established
+2024-11-21 13:25:23,648 INFO Checking if user exists in database
+2024-11-21 13:25:24,159 INFO Updating is_first_login flag for user
+2024-11-21 13:25:24,456 INFO Creating or updating session for user
+2024-11-21 13:25:24,809 INFO Login successful for user ID 18
+2024-11-21 13:27:00,273 INFO Received login request
+2024-11-21 13:27:01,021 INFO Database connection established
+2024-11-21 13:27:01,022 INFO Checking if user exists in database
+2024-11-21 13:27:01,577 INFO Creating or updating session for user
+2024-11-21 13:27:01,875 INFO Login successful for user ID 37
+2024-11-21 13:27:26,172 INFO Received logout request
+2024-11-21 13:27:26,961 INFO Database connection established
+2024-11-21 13:27:26,962 INFO Checking active session for user ID 37
+2024-11-21 13:27:27,123 INFO Updating logout time for user
+2024-11-21 13:27:27,433 INFO Logout successful for user ID 37
+2024-11-21 13:29:32,848 INFO Received login request
+2024-11-21 13:29:33,613 INFO Database connection established
+2024-11-21 13:29:33,614 INFO Checking if user exists in database
+2024-11-21 13:29:34,108 INFO Creating or updating session for user
+2024-11-21 13:29:34,413 INFO Login successful for user ID 37
+2024-11-21 13:30:20,795 INFO Received login request
+2024-11-21 13:30:21,558 INFO Database connection established
+2024-11-21 13:30:21,559 INFO Checking if user exists in database
+2024-11-21 13:30:22,058 INFO Creating or updating session for user
+2024-11-21 13:30:22,362 INFO Login successful for user ID 37
+2024-11-21 14:32:35,116 INFO Received logout request
+2024-11-21 14:32:35,873 INFO Database connection established
+2024-11-21 14:32:35,873 INFO Checking active session for user ID 37
+2024-11-21 14:32:36,026 INFO Updating logout time for user
+2024-11-21 14:32:36,326 INFO Logout successful for user ID 37
+2024-11-21 14:32:52,037 INFO Received login request
+2024-11-21 14:32:52,775 INFO Database connection established
+2024-11-21 14:32:52,775 INFO Checking if user exists in database
+2024-11-21 14:32:53,095 INFO Creating or updating session for user
+2024-11-21 14:32:53,395 INFO Login successful for user ID 40
+2024-11-21 16:52:06,947 INFO Received login request
+2024-11-21 16:52:07,762 INFO Database connection established
+2024-11-21 16:52:07,764 INFO Checking if user exists in database
+2024-11-21 16:52:08,108 INFO Creating or updating session for user
+2024-11-21 16:52:08,423 INFO Login successful for user ID 40
+2024-11-21 17:16:32,665 INFO Received logout request
+2024-11-21 17:16:33,474 INFO Database connection established
+2024-11-21 17:16:33,474 INFO Checking active session for user ID 40
+2024-11-21 17:16:33,640 INFO Updating logout time for user
+2024-11-21 17:16:33,956 INFO Logout successful for user ID 40
+2024-11-21 17:16:52,114 INFO Received login request
+2024-11-21 17:16:52,899 INFO Database connection established
+2024-11-21 17:16:52,901 INFO Checking if user exists in database
+2024-11-21 17:16:53,233 INFO Creating or updating session for user
+2024-11-21 17:16:53,553 INFO Login successful for user ID 18
+2024-11-21 17:19:37,251 INFO Received logout request
+2024-11-21 17:19:38,280 INFO Database connection established
+2024-11-21 17:19:38,280 INFO Checking active session for user ID 18
+2024-11-21 17:19:38,519 INFO Updating logout time for user
+2024-11-21 17:19:39,139 INFO Logout successful for user ID 18
+2024-11-21 17:20:06,556 INFO Received login request
+2024-11-21 17:20:07,494 INFO Database connection established
+2024-11-21 17:20:07,501 INFO Checking if user exists in database
+2024-11-21 17:20:08,060 INFO Creating or updating session for user
+2024-11-21 17:20:08,428 INFO Login successful for user ID 40
+2024-11-21 17:20:31,040 INFO Received logout request
+2024-11-21 17:20:33,003 INFO Database connection established
+2024-11-21 17:20:33,003 INFO Checking active session for user ID 40
+2024-11-21 17:20:33,409 INFO Updating logout time for user
+2024-11-21 17:20:33,811 INFO Logout successful for user ID 40
+2024-11-21 17:22:36,067 INFO Received login request
+2024-11-21 17:22:37,199 INFO Database connection established
+2024-11-21 17:22:37,199 INFO Checking if user exists in database
+2024-11-21 17:22:37,819 INFO Creating or updating session for user
+2024-11-21 17:22:38,247 INFO Login successful for user ID 18
+2024-11-22 10:51:17,015 INFO Received login request
+2024-11-22 10:51:17,851 INFO Database connection established
+2024-11-22 10:51:17,853 INFO Checking if user exists in database
+2024-11-22 10:51:18,173 INFO Updating is_first_login flag for user
+2024-11-22 10:51:18,486 INFO Creating or updating session for user
+2024-11-22 10:51:18,792 INFO Login successful for user ID 41
+2024-11-22 10:51:34,187 INFO Received login request
+2024-11-22 10:51:34,950 INFO Database connection established
+2024-11-22 10:51:34,951 INFO Checking if user exists in database
+2024-11-22 10:51:35,284 INFO Creating or updating session for user
+2024-11-22 10:51:35,598 INFO Login successful for user ID 41
+2024-11-22 10:53:19,237 INFO Received logout request
+2024-11-22 10:53:20,002 INFO Database connection established
+2024-11-22 10:53:20,003 INFO Checking active session for user ID 41
+2024-11-22 10:53:20,163 INFO Updating logout time for user
+2024-11-22 10:53:20,471 INFO Logout successful for user ID 41
+2024-11-22 10:53:34,967 INFO Received login request
+2024-11-22 10:53:35,732 INFO Database connection established
+2024-11-22 10:53:35,733 INFO Checking if user exists in database
+2024-11-22 10:53:36,077 INFO Creating or updating session for user
+2024-11-22 10:53:36,389 INFO Login successful for user ID 41
+2024-11-22 10:54:28,508 INFO Received logout request
+2024-11-22 10:54:29,276 INFO Database connection established
+2024-11-22 10:54:29,277 INFO Checking active session for user ID 41
+2024-11-22 10:54:29,429 WARNING Logout failed: No active session found for user
+2024-11-22 10:56:23,749 INFO Received login request
+2024-11-22 10:56:24,562 INFO Database connection established
+2024-11-22 10:56:24,564 INFO Checking if user exists in database
+2024-11-22 10:56:24,885 INFO Updating is_first_login flag for user
+2024-11-22 10:56:25,191 INFO Creating or updating session for user
+2024-11-22 10:56:25,502 INFO Login successful for user ID 42
+2024-11-22 10:56:43,751 INFO Received login request
+2024-11-22 10:56:44,532 INFO Database connection established
+2024-11-22 10:56:44,532 INFO Checking if user exists in database
+2024-11-22 10:56:44,821 INFO Creating or updating session for user
+2024-11-22 10:56:45,461 INFO Login successful for user ID 42
+2024-11-22 10:56:54,553 INFO Received logout request
+2024-11-22 10:56:55,337 INFO Database connection established
+2024-11-22 10:56:55,339 INFO Checking active session for user ID 42
+2024-11-22 10:56:55,495 INFO Updating logout time for user
+2024-11-22 10:56:55,814 INFO Logout successful for user ID 42
+2024-11-22 10:57:21,274 INFO Received login request
+2024-11-22 10:57:22,032 INFO Database connection established
+2024-11-22 10:57:22,032 INFO Checking if user exists in database
+2024-11-22 10:57:22,385 INFO Creating or updating session for user
+2024-11-22 10:57:22,691 INFO Login successful for user ID 18
+2024-11-22 11:00:21,633 INFO Received logout request
+2024-11-22 11:00:22,409 INFO Database connection established
+2024-11-22 11:00:22,409 INFO Checking active session for user ID 18
+2024-11-22 11:00:22,575 INFO Updating logout time for user
+2024-11-22 11:00:22,886 INFO Logout successful for user ID 18
+2024-11-22 11:00:58,556 INFO Received login request
+2024-11-22 11:00:59,325 INFO Database connection established
+2024-11-22 11:00:59,327 INFO Checking if user exists in database
+2024-11-22 11:00:59,646 INFO Updating is_first_login flag for user
+2024-11-22 11:00:59,949 INFO Creating or updating session for user
+2024-11-22 11:01:00,250 INFO Login successful for user ID 31
+2024-11-22 11:03:11,561 INFO Received login request
+2024-11-22 11:03:12,329 INFO Database connection established
+2024-11-22 11:03:12,330 INFO Checking if user exists in database
+2024-11-22 11:03:12,794 INFO Updating is_first_login flag for user
+2024-11-22 11:03:13,099 INFO Creating or updating session for user
+2024-11-22 11:03:13,403 INFO Login successful for user ID 43
+2024-11-22 11:03:55,123 INFO Received login request
+2024-11-22 11:03:55,939 INFO Database connection established
+2024-11-22 11:03:55,940 INFO Checking if user exists in database
+2024-11-22 11:03:56,376 INFO Creating or updating session for user
+2024-11-22 11:03:56,700 INFO Login successful for user ID 43
+2024-11-22 11:13:24,482 INFO Received login request
+2024-11-22 11:13:25,264 INFO Database connection established
+2024-11-22 11:13:25,264 INFO Checking if user exists in database
+2024-11-22 11:13:25,590 INFO Updating is_first_login flag for user
+2024-11-22 11:13:25,893 INFO Creating or updating session for user
+2024-11-22 11:13:26,200 INFO Login successful for user ID 44
+2024-11-22 11:16:12,556 INFO Received login request
+2024-11-22 11:16:13,334 INFO Database connection established
+2024-11-22 11:16:13,335 INFO Checking if user exists in database
+2024-11-22 11:16:13,841 INFO Creating or updating session for user
+2024-11-22 11:16:14,139 INFO Login successful for user ID 44
+2024-11-22 11:16:19,744 INFO Received logout request
+2024-11-22 11:16:20,563 INFO Database connection established
+2024-11-22 11:16:20,564 INFO Checking active session for user ID 44
+2024-11-22 11:16:20,717 INFO Updating logout time for user
+2024-11-22 11:16:21,021 INFO Logout successful for user ID 44
+2024-11-22 12:12:01,004 INFO Received login request
+2024-11-22 12:12:01,866 INFO Database connection established
+2024-11-22 12:12:01,867 INFO Checking if user exists in database
+2024-11-22 12:12:02,394 INFO Creating or updating session for user
+2024-11-22 12:12:02,702 INFO Login successful for user ID 18
+2024-11-22 12:12:46,979 INFO Received logout request
+2024-11-22 12:12:47,741 INFO Database connection established
+2024-11-22 12:12:47,743 INFO Checking active session for user ID 18
+2024-11-22 12:12:47,898 INFO Updating logout time for user
+2024-11-22 12:12:48,211 INFO Logout successful for user ID 18
+2024-11-22 12:55:31,947 INFO Received login request
+2024-11-22 12:55:32,823 INFO Database connection established
+2024-11-22 12:55:32,824 INFO Checking if user exists in database
+2024-11-22 12:55:32,990 WARNING Login failed: User not found
+2024-11-22 12:56:15,965 INFO Received login request
+2024-11-22 12:56:16,722 INFO Database connection established
+2024-11-22 12:56:16,723 INFO Checking if user exists in database
+2024-11-22 12:56:17,028 INFO Creating or updating session for user
+2024-11-22 12:56:17,336 INFO Login successful for user ID 18
+2024-11-22 12:57:23,662 INFO Received login request
+2024-11-22 12:57:25,284 INFO Database connection established
+2024-11-22 12:57:25,286 INFO Checking if user exists in database
+2024-11-22 12:57:25,692 INFO Creating or updating session for user
+2024-11-22 12:57:26,156 INFO Login successful for user ID 18
+2024-11-22 13:00:56,433 INFO Received logout request
+2024-11-22 13:00:57,224 INFO Database connection established
+2024-11-22 13:00:57,228 INFO Checking active session for user ID 18
+2024-11-22 13:00:57,402 INFO Updating logout time for user
+2024-11-22 13:00:57,773 INFO Logout successful for user ID 18
